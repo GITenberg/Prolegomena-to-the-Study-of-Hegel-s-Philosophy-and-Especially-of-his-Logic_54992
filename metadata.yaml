@@ -1,0 +1,32 @@
+_repo: Prolegomena-to-the-Study-of-Hegel-s-Philosophy-and-Especially-of-his-Logic_54992
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Hegel, Georg Wilhelm Friedrich
+    alias: Hegel, G. W. F. (Georg Wilhelm Friedrich)
+    birthdate: 1770
+    deathdate: 1831
+    gutenberg_agent_id: '2161'
+    url: http://www.gutenberg.org/2009/agents/2161
+    wikipedia: http://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel
+  - agent_name: Wallace, William
+    alias: Wallace, W. (William)
+    birthdate: 1844
+    deathdate: 1897
+    gutenberg_agent_id: '42701'
+    url: http://www.gutenberg.org/2009/agents/42701
+description: ''
+gutenberg_issued: '2017-06-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54992'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Prolegomena to the Study of Hegel''s Philosophy
+
+  and Especially of his Logic'
+url: http://www.gutenberg.org/ebooks/54992
